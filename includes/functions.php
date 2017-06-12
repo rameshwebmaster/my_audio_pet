@@ -6,8 +6,6 @@
 |                               Mobile Number : 0333-9276635            		 						|	  
 ----------------------------------------------------------------------------------------*/
 
-
-
 // Function redirect
 function redirect($url){
   $script = "<script type='text/javascript'>window.location.href='".$url."'</script>";
